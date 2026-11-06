@@ -1,0 +1,36 @@
+{
+  "file": "nginx_access_500.log",
+  "format": "nginx_access",
+  "total_lines": 23,
+  "expected_dominant": "500_server_error",
+  "expected_counts": {
+    "500_server_error": 18,
+    "ok": 4,
+    "404_not_found": 1
+  },
+  "labels": [
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "ok",
+    "ok",
+    "ok",
+    "ok",
+    "404_not_found"
+  ]
+}

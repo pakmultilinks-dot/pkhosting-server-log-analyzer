@@ -1,0 +1,34 @@
+{
+  "file": "nginx_error_file.log",
+  "format": "nginx_error",
+  "total_lines": 22,
+  "expected_dominant": "file_permission_error",
+  "expected_counts": {
+    "file_permission_error": 20,
+    "unknown_other": 2
+  },
+  "labels": [
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "unknown_other",
+    "unknown_other"
+  ]
+}

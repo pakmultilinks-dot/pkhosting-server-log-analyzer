@@ -1,0 +1,33 @@
+{
+  "file": "nginx_access_upstream.log",
+  "format": "nginx_access",
+  "total_lines": 21,
+  "expected_dominant": "upstream_timeout",
+  "expected_counts": {
+    "upstream_timeout": 18,
+    "ok": 3
+  },
+  "labels": [
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "ok",
+    "ok",
+    "ok"
+  ]
+}

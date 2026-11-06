@@ -1,0 +1,20 @@
+2026-10-05 13:13:45,524 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:29:03,423 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:44:37,648 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:44:30,460 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:18:14,879 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:51:15,538 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:29:52,740 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:49:23,946 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:27:42,881 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:30:52,183 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:51:48,588 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:52:11,550 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:19:41,120 ERROR app.worker: Uncaught exception in worker: KeyError: 'user_id'
+2026-10-05 13:43:15,567 ERROR app.worker: Uncaught exception in worker: KeyError: 'user_id'
+2026-10-05 13:47:20,168 ERROR app.worker: Uncaught exception in worker: KeyError: 'user_id'
+2026-10-05 13:39:15,747 ERROR app.worker: Uncaught exception in worker: KeyError: 'user_id'
+2026-10-05 13:22:58,780 ERROR app.worker: Uncaught exception in worker: KeyError: 'user_id'
+2026-10-05 13:54:16,455 INFO app.web: worker started
+2026-10-05 13:26:44,964 INFO app.web: worker started
+2026-10-05 13:25:18,529 INFO app.web: worker started

@@ -1,0 +1,32 @@
+{
+  "file": "app_exception.log",
+  "format": "application",
+  "total_lines": 20,
+  "expected_dominant": "app_exception",
+  "expected_counts": {
+    "app_exception": 17,
+    "ok": 3
+  },
+  "labels": [
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "app_exception",
+    "ok",
+    "ok",
+    "ok"
+  ]
+}

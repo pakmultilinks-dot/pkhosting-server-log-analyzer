@@ -1,0 +1,23 @@
+2026-10-05 13:42:42,831 WARNING app.db: slow query took 11.5s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:12:55,240 WARNING app.db: slow query took 9.9s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:43:30,704 WARNING app.db: slow query took 7.5s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:18:23,758 WARNING app.db: slow query took 6.8s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:54:45,678 WARNING app.db: slow query took 9.5s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:40:52,262 WARNING app.db: slow query took 6.4s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:33:40,579 WARNING app.db: slow query took 7.5s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:47:13,474 WARNING app.db: slow query took 8.7s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:12:10,165 WARNING app.db: slow query took 8.6s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:30:26,623 WARNING app.db: slow query took 6.2s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:35:59,316 WARNING app.db: slow query took 8.6s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:17:46,063 WARNING app.db: slow query took 7.9s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:51:26,513 WARNING app.db: slow query took 7.7s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:11:22,032 WARNING app.db: slow query took 9.8s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:10:08,897 WARNING app.db: slow query took 8.7s: SELECT * FROM orders WHERE status = 'pending'
+2026-10-05 13:50:56,168 WARNING app.web: request took 7.2s to complete: GET /report
+2026-10-05 13:59:06,553 WARNING app.web: request took 7.2s to complete: GET /report
+2026-10-05 13:48:42,702 WARNING app.web: request took 14.1s to complete: GET /report
+2026-10-05 13:20:01,959 WARNING app.web: request took 9.8s to complete: GET /report
+2026-10-05 13:41:36,093 WARNING app.web: request took 13.9s to complete: GET /report
+2026-10-05 13:26:24,772 INFO app.web: GET / 200
+2026-10-05 13:42:25,450 INFO app.web: GET / 200
+2026-10-05 13:23:21,531 INFO app.web: GET / 200

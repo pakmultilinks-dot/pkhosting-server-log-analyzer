@@ -1,0 +1,6 @@
+203.0.113.10 - - [05/Oct/2026:13:21:47 +0500] "GET /old-page HTTP/1.1" 404 643 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+203.0.113.10 - - [05/Oct/2026:13:31:51 +0500] "GET /missing.jpg HTTP/1.1" 404 3177 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+203.0.113.10 - - [05/Oct/2026:13:45:05 +0500] "GET / HTTP/1.1" 200 7209 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.300
+198.51.100.23 - - [05/Oct/2026:13:31:03 +0500] "GET /wp-admin/install.php HTTP/1.1" 404 5469 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+203.0.113.44 - - [05/Oct/2026:13:27:19 +0500] "GET /checkout HTTP/1.1" 500 8285 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.400
+203.0.113.44 - - [05/Oct/2026:13:48:44 +0500] "GET /shop HTTP/1.1" 200 3465 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.500

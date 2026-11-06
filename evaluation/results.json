@@ -1,0 +1,330 @@
+{
+  "fixtures": 18,
+  "total_lines": 401,
+  "correct_lines": 401,
+  "overall_per_line_accuracy": 1.0,
+  "dominant_type_accuracy": 1.0,
+  "dominant_correct": 18,
+  "rows": [
+    {
+      "file": "apache_access_404.log",
+      "format": "apache_access",
+      "lines": 23,
+      "expected_dominant": "404_not_found",
+      "predicted_dominant": "404_not_found",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "404_not_found": 20,
+        "ok": 3
+      },
+      "predicted_counts": {
+        "404_not_found": 20,
+        "ok": 3
+      }
+    },
+    {
+      "file": "apache_access_500.log",
+      "format": "apache_access",
+      "lines": 22,
+      "expected_dominant": "500_server_error",
+      "predicted_dominant": "500_server_error",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "500_server_error": 16,
+        "upstream_timeout": 2,
+        "ok": 4
+      },
+      "predicted_counts": {
+        "500_server_error": 16,
+        "upstream_timeout": 2,
+        "ok": 4
+      }
+    },
+    {
+      "file": "app_auth.log",
+      "format": "application",
+      "lines": 24,
+      "expected_dominant": "auth_failure",
+      "predicted_dominant": "auth_failure",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "auth_failure": 22,
+        "ok": 2
+      },
+      "predicted_counts": {
+        "auth_failure": 22,
+        "ok": 2
+      }
+    },
+    {
+      "file": "app_db_error.log",
+      "format": "application",
+      "lines": 23,
+      "expected_dominant": "database_error",
+      "predicted_dominant": "database_error",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "database_error": 20,
+        "ok": 3
+      },
+      "predicted_counts": {
+        "database_error": 20,
+        "ok": 3
+      }
+    },
+    {
+      "file": "app_exception.log",
+      "format": "application",
+      "lines": 20,
+      "expected_dominant": "app_exception",
+      "predicted_dominant": "app_exception",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "app_exception": 17,
+        "ok": 3
+      },
+      "predicted_counts": {
+        "app_exception": 17,
+        "ok": 3
+      }
+    },
+    {
+      "file": "app_mixed.log",
+      "format": "application",
+      "lines": 22,
+      "expected_dominant": "500_server_error",
+      "predicted_dominant": "500_server_error",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "500_server_error": 10,
+        "database_error": 5,
+        "ok": 4,
+        "app_exception": 3
+      },
+      "predicted_counts": {
+        "500_server_error": 10,
+        "database_error": 5,
+        "ok": 4,
+        "app_exception": 3
+      }
+    },
+    {
+      "file": "app_slow.log",
+      "format": "application",
+      "lines": 23,
+      "expected_dominant": "slow_request",
+      "predicted_dominant": "slow_request",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "slow_request": 20,
+        "ok": 3
+      },
+      "predicted_counts": {
+        "slow_request": 20,
+        "ok": 3
+      }
+    },
+    {
+      "file": "nginx_access_404.log",
+      "format": "nginx_access",
+      "lines": 23,
+      "expected_dominant": "404_not_found",
+      "predicted_dominant": "404_not_found",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "404_not_found": 20,
+        "ok": 3
+      },
+      "predicted_counts": {
+        "404_not_found": 20,
+        "ok": 3
+      }
+    },
+    {
+      "file": "nginx_access_429.log",
+      "format": "nginx_access",
+      "lines": 20,
+      "expected_dominant": "rate_limit",
+      "predicted_dominant": "rate_limit",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "rate_limit": 16,
+        "ok": 4
+      },
+      "predicted_counts": {
+        "rate_limit": 16,
+        "ok": 4
+      }
+    },
+    {
+      "file": "nginx_access_500.log",
+      "format": "nginx_access",
+      "lines": 23,
+      "expected_dominant": "500_server_error",
+      "predicted_dominant": "500_server_error",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "500_server_error": 18,
+        "ok": 4,
+        "404_not_found": 1
+      },
+      "predicted_counts": {
+        "500_server_error": 18,
+        "ok": 4,
+        "404_not_found": 1
+      }
+    },
+    {
+      "file": "nginx_access_auth.log",
+      "format": "nginx_access",
+      "lines": 25,
+      "expected_dominant": "auth_failure",
+      "predicted_dominant": "auth_failure",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "auth_failure": 20,
+        "file_permission_error": 3,
+        "ok": 2
+      },
+      "predicted_counts": {
+        "auth_failure": 20,
+        "file_permission_error": 3,
+        "ok": 2
+      }
+    },
+    {
+      "file": "nginx_access_bot.log",
+      "format": "nginx_access",
+      "lines": 25,
+      "expected_dominant": "bot_flood",
+      "predicted_dominant": "bot_flood",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "bot_flood": 22,
+        "ok": 3
+      },
+      "predicted_counts": {
+        "bot_flood": 22,
+        "ok": 3
+      }
+    },
+    {
+      "file": "nginx_access_mixed.log",
+      "format": "nginx_access",
+      "lines": 22,
+      "expected_dominant": "404_not_found",
+      "predicted_dominant": "404_not_found",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "404_not_found": 12,
+        "500_server_error": 5,
+        "ok": 3,
+        "rate_limit": 2
+      },
+      "predicted_counts": {
+        "404_not_found": 12,
+        "500_server_error": 5,
+        "ok": 3,
+        "rate_limit": 2
+      }
+    },
+    {
+      "file": "nginx_access_slow.log",
+      "format": "nginx_access",
+      "lines": 23,
+      "expected_dominant": "slow_request",
+      "predicted_dominant": "slow_request",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "slow_request": 20,
+        "ok": 3
+      },
+      "predicted_counts": {
+        "slow_request": 20,
+        "ok": 3
+      }
+    },
+    {
+      "file": "nginx_access_upstream.log",
+      "format": "nginx_access",
+      "lines": 21,
+      "expected_dominant": "upstream_timeout",
+      "predicted_dominant": "upstream_timeout",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "upstream_timeout": 18,
+        "ok": 3
+      },
+      "predicted_counts": {
+        "upstream_timeout": 18,
+        "ok": 3
+      }
+    },
+    {
+      "file": "nginx_error_file.log",
+      "format": "nginx_error",
+      "lines": 22,
+      "expected_dominant": "file_permission_error",
+      "predicted_dominant": "file_permission_error",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "file_permission_error": 20,
+        "unknown_other": 2
+      },
+      "predicted_counts": {
+        "file_permission_error": 20,
+        "unknown_other": 2
+      }
+    },
+    {
+      "file": "nginx_error_ssl.log",
+      "format": "nginx_error",
+      "lines": 20,
+      "expected_dominant": "ssl_error",
+      "predicted_dominant": "ssl_error",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "ssl_error": 18,
+        "file_permission_error": 2
+      },
+      "predicted_counts": {
+        "ssl_error": 18,
+        "file_permission_error": 2
+      }
+    },
+    {
+      "file": "nginx_error_upstream.log",
+      "format": "nginx_error",
+      "lines": 20,
+      "expected_dominant": "upstream_timeout",
+      "predicted_dominant": "upstream_timeout",
+      "dominant_correct": true,
+      "per_line_accuracy": 1.0,
+      "expected_counts": {
+        "upstream_timeout": 18,
+        "unknown_other": 2
+      },
+      "predicted_counts": {
+        "upstream_timeout": 18,
+        "unknown_other": 2
+      }
+    }
+  ]
+}

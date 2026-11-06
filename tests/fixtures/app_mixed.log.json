@@ -1,0 +1,36 @@
+{
+  "file": "app_mixed.log",
+  "format": "application",
+  "total_lines": 22,
+  "expected_dominant": "500_server_error",
+  "expected_counts": {
+    "500_server_error": 10,
+    "database_error": 5,
+    "ok": 4,
+    "app_exception": 3
+  },
+  "labels": [
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "ok",
+    "ok",
+    "ok",
+    "ok",
+    "app_exception",
+    "app_exception",
+    "app_exception"
+  ]
+}

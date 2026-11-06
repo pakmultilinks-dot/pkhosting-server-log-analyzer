@@ -1,0 +1,35 @@
+{
+  "file": "apache_access_500.log",
+  "format": "apache_access",
+  "total_lines": 22,
+  "expected_dominant": "500_server_error",
+  "expected_counts": {
+    "500_server_error": 16,
+    "upstream_timeout": 2,
+    "ok": 4
+  },
+  "labels": [
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "upstream_timeout",
+    "upstream_timeout",
+    "ok",
+    "ok",
+    "ok",
+    "ok"
+  ]
+}

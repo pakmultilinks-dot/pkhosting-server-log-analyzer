@@ -1,0 +1,36 @@
+{
+  "file": "nginx_access_mixed.log",
+  "format": "nginx_access",
+  "total_lines": 22,
+  "expected_dominant": "404_not_found",
+  "expected_counts": {
+    "404_not_found": 12,
+    "500_server_error": 5,
+    "ok": 3,
+    "rate_limit": 2
+  },
+  "labels": [
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "500_server_error",
+    "ok",
+    "ok",
+    "ok",
+    "rate_limit",
+    "rate_limit"
+  ]
+}

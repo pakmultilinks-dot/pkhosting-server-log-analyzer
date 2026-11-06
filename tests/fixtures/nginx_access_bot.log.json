@@ -1,0 +1,37 @@
+{
+  "file": "nginx_access_bot.log",
+  "format": "nginx_access",
+  "total_lines": 25,
+  "expected_dominant": "bot_flood",
+  "expected_counts": {
+    "bot_flood": 22,
+    "ok": 3
+  },
+  "labels": [
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "bot_flood",
+    "ok",
+    "ok",
+    "ok"
+  ]
+}

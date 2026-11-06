@@ -1,0 +1,35 @@
+{
+  "file": "nginx_access_404.log",
+  "format": "nginx_access",
+  "total_lines": 23,
+  "expected_dominant": "404_not_found",
+  "expected_counts": {
+    "404_not_found": 20,
+    "ok": 3
+  },
+  "labels": [
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "404_not_found",
+    "ok",
+    "ok",
+    "ok"
+  ]
+}

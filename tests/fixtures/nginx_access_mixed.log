@@ -1,0 +1,22 @@
+203.0.113.44 - - [05/Oct/2026:13:42:49 +0500] "GET /products/gone HTTP/1.1" 404 8021 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+203.0.113.44 - - [05/Oct/2026:13:29:22 +0500] "GET /old-page HTTP/1.1" 404 6199 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+198.51.100.23 - - [05/Oct/2026:13:43:12 +0500] "GET /missing.jpg HTTP/1.1" 404 1972 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+192.0.2.88 - - [05/Oct/2026:13:28:30 +0500] "GET /wp-admin/install.php HTTP/1.1" 404 2193 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+192.0.2.88 - - [05/Oct/2026:13:32:59 +0500] "GET /missing.jpg HTTP/1.1" 404 423 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+203.0.113.91 - - [05/Oct/2026:13:38:54 +0500] "GET /missing.jpg HTTP/1.1" 404 2122 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+192.0.2.88 - - [05/Oct/2026:13:27:21 +0500] "GET /old-page HTTP/1.1" 404 2355 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+198.51.100.23 - - [05/Oct/2026:13:24:59 +0500] "GET /blog/deleted-post HTTP/1.1" 404 5725 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+198.51.100.23 - - [05/Oct/2026:13:46:31 +0500] "GET /wp-admin/install.php HTTP/1.1" 404 1535 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+203.0.113.44 - - [05/Oct/2026:13:13:36 +0500] "GET /old-page HTTP/1.1" 404 4668 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+192.0.2.88 - - [05/Oct/2026:13:53:55 +0500] "GET /blog/deleted-post HTTP/1.1" 404 529 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+203.0.113.44 - - [05/Oct/2026:13:25:25 +0500] "GET /wp-admin/install.php HTTP/1.1" 404 625 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+198.51.100.23 - - [05/Oct/2026:13:35:01 +0500] "GET /account HTTP/1.1" 500 2188 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.400
+203.0.113.91 - - [05/Oct/2026:13:20:49 +0500] "GET /account HTTP/1.1" 500 7384 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.400
+192.0.2.88 - - [05/Oct/2026:13:48:33 +0500] "GET /account HTTP/1.1" 500 8152 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.400
+203.0.113.10 - - [05/Oct/2026:13:51:02 +0500] "GET /search HTTP/1.1" 500 2711 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.400
+203.0.113.91 - - [05/Oct/2026:13:17:30 +0500] "GET /api/orders HTTP/1.1" 500 5136 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.400
+203.0.113.91 - - [05/Oct/2026:13:35:35 +0500] "GET /shop HTTP/1.1" 200 6098 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.300
+203.0.113.91 - - [05/Oct/2026:13:47:57 +0500] "GET /pricing HTTP/1.1" 200 4394 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.300
+192.0.2.88 - - [05/Oct/2026:13:26:41 +0500] "GET /about HTTP/1.1" 200 7379 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.300
+198.51.100.23 - - [05/Oct/2026:13:24:09 +0500] "GET /contact HTTP/1.1" 429 8977 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+198.51.100.23 - - [05/Oct/2026:13:21:42 +0500] "GET /about HTTP/1.1" 429 6824 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"

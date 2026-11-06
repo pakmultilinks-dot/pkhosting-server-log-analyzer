@@ -1,0 +1,35 @@
+{
+  "file": "app_db_error.log",
+  "format": "application",
+  "total_lines": 23,
+  "expected_dominant": "database_error",
+  "expected_counts": {
+    "database_error": 20,
+    "ok": 3
+  },
+  "labels": [
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "database_error",
+    "ok",
+    "ok",
+    "ok"
+  ]
+}

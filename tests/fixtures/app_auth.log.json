@@ -1,0 +1,36 @@
+{
+  "file": "app_auth.log",
+  "format": "application",
+  "total_lines": 24,
+  "expected_dominant": "auth_failure",
+  "expected_counts": {
+    "auth_failure": 22,
+    "ok": 2
+  },
+  "labels": [
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "ok",
+    "ok"
+  ]
+}

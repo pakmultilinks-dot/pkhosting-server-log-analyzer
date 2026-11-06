@@ -1,0 +1,32 @@
+{
+  "file": "nginx_error_upstream.log",
+  "format": "nginx_error",
+  "total_lines": 20,
+  "expected_dominant": "upstream_timeout",
+  "expected_counts": {
+    "upstream_timeout": 18,
+    "unknown_other": 2
+  },
+  "labels": [
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "upstream_timeout",
+    "unknown_other",
+    "unknown_other"
+  ]
+}

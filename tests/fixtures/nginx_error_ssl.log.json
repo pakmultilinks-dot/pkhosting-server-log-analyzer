@@ -1,0 +1,32 @@
+{
+  "file": "nginx_error_ssl.log",
+  "format": "nginx_error",
+  "total_lines": 20,
+  "expected_dominant": "ssl_error",
+  "expected_counts": {
+    "ssl_error": 18,
+    "file_permission_error": 2
+  },
+  "labels": [
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "ssl_error",
+    "file_permission_error",
+    "file_permission_error"
+  ]
+}

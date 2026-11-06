@@ -1,0 +1,20 @@
+2026/10/05 13:34:10 [error] 123#0: *0 connect() failed (111: Connection refused) while connecting to upstream, client: 203.0.113.91
+2026/10/05 13:30:05 [error] 123#0: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 192.0.2.88
+2026/10/05 13:46:57 [error] 123#0: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 203.0.113.44
+2026/10/05 13:48:55 [error] 123#0: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 203.0.113.44
+2026/10/05 13:36:15 [error] 123#0: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 203.0.113.10
+2026/10/05 13:24:01 [error] 123#0: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 198.51.100.23
+2026/10/05 13:31:32 [error] 123#0: *6 connect() failed (111: Connection refused) while connecting to upstream, client: 203.0.113.91
+2026/10/05 13:35:16 [error] 123#0: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 203.0.113.10
+2026/10/05 13:42:32 [error] 123#0: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 203.0.113.10
+2026/10/05 13:52:08 [error] 123#0: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 192.0.2.88
+2026/10/05 13:55:33 [error] 123#0: *10 connect() failed (111: Connection refused) while connecting to upstream, client: 203.0.113.44
+2026/10/05 13:53:05 [error] 123#0: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 192.0.2.88
+2026/10/05 13:36:52 [error] 123#0: *12 connect() failed (111: Connection refused) while connecting to upstream, client: 203.0.113.10
+2026/10/05 13:39:47 [error] 123#0: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 203.0.113.91
+2026/10/05 13:15:46 [error] 123#0: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 203.0.113.10
+2026/10/05 13:37:05 [error] 123#0: upstream timed out (110: Connection timed out) while reading response header from upstream, client: 198.51.100.23
+2026/10/05 13:35:39 [error] 123#0: upstream timed out (110: Connection timed out) while reading response header from upstream, client: 198.51.100.23
+2026/10/05 13:40:59 [error] 123#0: upstream timed out (110: Connection timed out) while reading response header from upstream, client: 198.51.100.23
+2026/10/05 13:45:07 [warn] 123#0: an upstream response is buffered to a temporary file
+2026/10/05 13:47:13 [warn] 123#0: an upstream response is buffered to a temporary file

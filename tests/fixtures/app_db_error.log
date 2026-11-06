@@ -1,0 +1,23 @@
+2026-10-05 13:48:03,710 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:35:51,827 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:14:04,661 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:32:27,019 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:36:54,833 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:46:48,837 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:11:20,198 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:36:18,989 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:34:12,797 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:51:10,170 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:24:25,899 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:17:42,771 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:37:20,103 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:28:17,693 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:51:22,072 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:16:15,749 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:41:13,822 ERROR app.db: too many connections to database, pool exhausted
+2026-10-05 13:37:32,653 ERROR app.db: too many connections to database, pool exhausted
+2026-10-05 13:40:13,719 ERROR app.db: too many connections to database, pool exhausted
+2026-10-05 13:37:10,824 ERROR app.db: too many connections to database, pool exhausted
+2026-10-05 13:36:48,547 INFO app.web: GET /shop 200
+2026-10-05 13:53:26,082 INFO app.web: GET /shop 200
+2026-10-05 13:44:48,258 INFO app.web: GET /shop 200

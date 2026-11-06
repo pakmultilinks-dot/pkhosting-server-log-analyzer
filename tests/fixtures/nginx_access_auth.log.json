@@ -1,0 +1,38 @@
+{
+  "file": "nginx_access_auth.log",
+  "format": "nginx_access",
+  "total_lines": 25,
+  "expected_dominant": "auth_failure",
+  "expected_counts": {
+    "auth_failure": 20,
+    "file_permission_error": 3,
+    "ok": 2
+  },
+  "labels": [
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "auth_failure",
+    "file_permission_error",
+    "file_permission_error",
+    "file_permission_error",
+    "ok",
+    "ok"
+  ]
+}

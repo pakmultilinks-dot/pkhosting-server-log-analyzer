@@ -1,0 +1,35 @@
+{
+  "file": "app_slow.log",
+  "format": "application",
+  "total_lines": 23,
+  "expected_dominant": "slow_request",
+  "expected_counts": {
+    "slow_request": 20,
+    "ok": 3
+  },
+  "labels": [
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "slow_request",
+    "ok",
+    "ok",
+    "ok"
+  ]
+}

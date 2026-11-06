@@ -1,0 +1,25 @@
+198.51.100.77 - - [05/Oct/2026:13:18:52 +0500] "GET /contact HTTP/1.1" 200 4091 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:48:24 +0500] "GET / HTTP/1.1" 200 4067 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:33:44 +0500] "GET /about HTTP/1.1" 200 2729 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:29:05 +0500] "GET /about HTTP/1.1" 200 6466 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:36:09 +0500] "GET /contact HTTP/1.1" 200 5151 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:11:53 +0500] "GET /pricing HTTP/1.1" 200 3212 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:39:23 +0500] "GET /pricing HTTP/1.1" 200 4534 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:12:37 +0500] "GET /about HTTP/1.1" 200 7281 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:50:31 +0500] "GET /pricing HTTP/1.1" 200 971 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:13:10 +0500] "GET /pricing HTTP/1.1" 200 1947 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:21:21 +0500] "GET / HTTP/1.1" 200 6138 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:10:47 +0500] "GET /shop HTTP/1.1" 200 7590 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:22:39 +0500] "GET / HTTP/1.1" 200 3333 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:26:45 +0500] "GET /shop HTTP/1.1" 200 6506 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:39:23 +0500] "GET / HTTP/1.1" 200 5645 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:11:14 +0500] "GET / HTTP/1.1" 200 8262 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:32:16 +0500] "GET / HTTP/1.1" 200 5750 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:42:43 +0500] "GET /contact HTTP/1.1" 200 8896 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:31:35 +0500] "GET / HTTP/1.1" 200 4421 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:17:46 +0500] "GET / HTTP/1.1" 200 1382 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:16:44 +0500] "GET /shop HTTP/1.1" 200 7588 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+198.51.100.77 - - [05/Oct/2026:13:10:00 +0500] "GET / HTTP/1.1" 200 6288 "-" "Mozilla/5.0 (compatible; BadBot/1.0; +http://example.com/bot)" 0.100
+203.0.113.10 - - [05/Oct/2026:13:28:18 +0500] "GET / HTTP/1.1" 200 1429 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.300
+203.0.113.10 - - [05/Oct/2026:13:42:45 +0500] "GET /contact HTTP/1.1" 200 2430 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.300
+198.51.100.23 - - [05/Oct/2026:13:49:49 +0500] "GET /about HTTP/1.1" 200 4574 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" 0.300

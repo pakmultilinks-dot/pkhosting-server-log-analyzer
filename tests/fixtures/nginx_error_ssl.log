@@ -1,0 +1,20 @@
+2026/10/05 13:57:34 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 203.0.113.91
+2026/10/05 13:11:51 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 203.0.113.44
+2026/10/05 13:42:19 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 198.51.100.23
+2026/10/05 13:35:49 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 203.0.113.44
+2026/10/05 13:38:58 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 203.0.113.91
+2026/10/05 13:47:57 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 203.0.113.91
+2026/10/05 13:56:50 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 192.0.2.88
+2026/10/05 13:58:58 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 203.0.113.91
+2026/10/05 13:46:55 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 192.0.2.88
+2026/10/05 13:23:16 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 203.0.113.10
+2026/10/05 13:39:02 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 192.0.2.88
+2026/10/05 13:44:14 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 203.0.113.91
+2026/10/05 13:29:39 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 203.0.113.44
+2026/10/05 13:23:37 [error] 123#0: SSL_do_handshake() failed (SSL: error:1408F10B:SSL routines:ssl3_get_record:wrong version number) while SSL handshaking, client: 203.0.113.10
+2026/10/05 13:31:04 [error] 123#0: SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed, client: 203.0.113.91
+2026/10/05 13:45:00 [error] 123#0: SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed, client: 203.0.113.44
+2026/10/05 13:12:09 [error] 123#0: SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed, client: 198.51.100.23
+2026/10/05 13:23:32 [error] 123#0: SSL: error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed, client: 192.0.2.88
+2026/10/05 13:53:30 [error] 123#0: open() "/var/www/html/missing.html" failed (2: No such file or directory), client: 192.0.2.88
+2026/10/05 13:25:26 [error] 123#0: open() "/var/www/html/missing.html" failed (2: No such file or directory), client: 203.0.113.91

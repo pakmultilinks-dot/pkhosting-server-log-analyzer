@@ -1,0 +1,5 @@
+2026-10-05 13:22:06,376 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:38:36,803 ERROR app.db: could not connect to database server: connection refused
+2026-10-05 13:25:04,813 INFO app.web: GET /shop 200
+2026-10-05 13:14:00,521 ERROR app.web: Traceback (most recent call last): ValueError: invalid price in cart
+2026-10-05 13:24:51,905 INFO app.web: worker started

@@ -1,0 +1,32 @@
+{
+  "file": "nginx_access_429.log",
+  "format": "nginx_access",
+  "total_lines": 20,
+  "expected_dominant": "rate_limit",
+  "expected_counts": {
+    "rate_limit": 16,
+    "ok": 4
+  },
+  "labels": [
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "rate_limit",
+    "ok",
+    "ok",
+    "ok",
+    "ok"
+  ]
+}
